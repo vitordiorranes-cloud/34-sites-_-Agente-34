@@ -1,0 +1,8 @@
+{
+  "name": "34 Portais - Onde a Espanha Realmente Contrata",
+  "description": "O mapa completo de onde as empresas espanholas publicam vagas de verdade e como se candidatar do Brasil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
